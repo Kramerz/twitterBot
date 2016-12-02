@@ -5,10 +5,10 @@ import os
 
 def sendTweet(tweet):
 
-	consumer_key = 'AmnZ6ch3kVZcqxsKeSPuT87EF'
-	consumer_Secret = 'ZEQVQImQvJqLS1p5BHdozlufLa5zcU0sKrfjIfzul5qeQHXjfy'
-	access_token = '804723989209718784-6YlRysGsAO40fDXXPbJK4eaPWUQt4Ya'
-	access_token_secret = 'x27J0TZdKGvtMiwhFt34DWtkRzLd5H7UFidRooY3GSSrl'
+	consumer_key = 'Regular Key'
+	consumer_Secret = 'SecretKey'
+	access_token = 'Access_token'
+	access_token_secret = 'Access_Secret'
 
 	myTweet = input("Please tell me what you wanna tweet: " )
 
