@@ -2,11 +2,11 @@ import tweepy
 import random
 from time import sleep
 
-consumer_key = 'AmnZ6ch3kVZcqxsKeSPuT87EF'
-consumer_Secret = 'ZEQVQImQvJqLS1p5BHdozlufLa5zcU0sKrfjIfzul5qeQHXjfy'
+consumer_key = 'Regular_key'
+consumer_Secret = 'Secret_key'
 
-access_token = '804723989209718784-6YlRysGsAO40fDXXPbJK4eaPWUQt4Ya'
-access_token_secret = 'x27J0TZdKGvtMiwhFt34DWtkRzLd5H7UFidRooY3GSSrl'
+access_token = 'access_token'
+access_token_secret = 'access_secret'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_Secret)
